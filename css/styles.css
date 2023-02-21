@@ -1,0 +1,82 @@
+.visually-hidden {
+    position: absolute !important;
+    clip: rect(1px 1px 1px 1px);
+    clip: rect(1px, 1px, 1px, 1px);
+    padding: 0 !important;
+    border: 0 !important;
+    height: 1px !important;
+    width: 1px !important;
+    overflow: hidden;
+  }
+  
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Секція main  */
+
+ /* Секція hero */
+
+ .page-section {
+  font-family: 'Roboto';
+  font-weight: 900;
+  font-size: 44px;
+}
+.main-button {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+  background-color: #2196F3;
+  width: 216px;
+  height: 50px;
+  border-radius: 4px;
+}
+
+/* Секція переваги */
+
+.subtitle {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 14px;
+  color: #212121;
+}
+
+/* Секція чим ми займаємось */
+ 
+.section-title {
+  width: 370px;
+  height: 294px;
+}
+
+.img {
+  width: 370px;
+  height: 294px;
+}
+
+/* Секція команда */
+
+.images {
+  width: 270px;
+  height: 260px;
+}
+
+/* Секція footer */
+
+.footer-links {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+}
