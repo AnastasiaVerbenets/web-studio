@@ -30,12 +30,10 @@ ul {
  /* Секція hero */
 
  .page-section {
-  font-family: 'Roboto';
   font-weight: 900;
   font-size: 44px;
 }
 .main-button {
-  font-family: 'Roboto';
   font-weight: 700;
   font-size: 16px;
   text-align: center;
@@ -48,18 +46,12 @@ ul {
 /* Секція переваги */
 
 .subtitle {
-  font-family: 'Roboto';
-  font-weight: 700;
   font-size: 14px;
   color: #212121;
 }
 
 /* Секція чим ми займаємось */
  
-.section-title {
-  width: 370px;
-  height: 294px;
-}
 
 .img {
   width: 370px;
@@ -76,7 +68,5 @@ ul {
 /* Секція footer */
 
 .footer-links {
-  font-family: 'Roboto';
-  font-weight: 400;
   font-size: 14px;
 }
